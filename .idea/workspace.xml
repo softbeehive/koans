@@ -4,9 +4,16 @@
     <list default="true" id="2aea2090-90a6-40a0-a807-d4792410c09d" name="Default" comment="Merge branch 'master' of https://github.com/softbeehive/koans&#10;&#10;Conflicts:&#10;&#9;about_strings.rb&#10;">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.path_progress" afterPath="$PROJECT_DIR$/.path_progress" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about_blocks.rb" afterPath="$PROJECT_DIR$/about_blocks.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about_constants.rb" afterPath="$PROJECT_DIR$/about_constants.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about_control_statements.rb" afterPath="$PROJECT_DIR$/about_control_statements.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about_exceptions.rb" afterPath="$PROJECT_DIR$/about_exceptions.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about_iteration.rb" afterPath="$PROJECT_DIR$/about_iteration.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about_methods.rb" afterPath="$PROJECT_DIR$/about_methods.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about_regular_expressions.rb" afterPath="$PROJECT_DIR$/about_regular_expressions.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about_strings.rb" afterPath="$PROJECT_DIR$/about_strings.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about_symbols.rb" afterPath="$PROJECT_DIR$/about_symbols.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about_sandwich_code.rb" afterPath="$PROJECT_DIR$/about_sandwich_code.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about_true_and_false.rb" afterPath="$PROJECT_DIR$/about_true_and_false.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triangle.rb" afterPath="$PROJECT_DIR$/triangle.rb" />
     </list>
     <list id="a09aa3cc-8188-4f52-9505-e17b2c06f511" name="Rejected commit: Default" comment="" />
     <ignored path="rubystart.iws" />
@@ -32,17 +39,7 @@
     <favorites_list name="rubystart" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="about_regular_expressions.rb" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/about_regular_expressions.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="19" selection-start="636" selection-end="636" vertical-scroll-proportion="0.80862534">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -54,20 +51,29 @@
     <option name="SYNC_SETTING" value="DONT" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///IRB console" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///IRB console" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/index.rb" />
-        <option value="$PROJECT_DIR$/about_nil.rb" />
-        <option value="$PROJECT_DIR$/about_objects.rb" />
-        <option value="$PROJECT_DIR$/about_arrays.rb" />
-        <option value="$PROJECT_DIR$/about_array_assignment.rb" />
-        <option value="$PROJECT_DIR$/about_hashes.rb" />
-        <option value="$PROJECT_DIR$/about_asserts.rb" />
-        <option value="$PROJECT_DIR$/about_strings.rb" />
-        <option value="$PROJECT_DIR$/about_symbols.rb" />
-        <option value="$PROJECT_DIR$/.path_progress" />
         <option value="$PROJECT_DIR$/about_regular_expressions.rb" />
+        <option value="$USER_HOME$/.cache/.fr-5NJGcI/koans/about_methods.rb" />
+        <option value="$USER_HOME$/.cache/.fr-VO7lOv/koans/about_methods.rb" />
+        <option value="$PROJECT_DIR$/about_methods.rb" />
+        <option value="$PROJECT_DIR$/tst1" />
+        <option value="$PROJECT_DIR$/about_constants.rb" />
+        <option value="$PROJECT_DIR$/about_control_statements.rb" />
+        <option value="$PROJECT_DIR$/about_true_and_false.rb" />
+        <option value="$PROJECT_DIR$/triangle.rb" />
+        <option value="$PROJECT_DIR$/about_exceptions.rb" />
+        <option value="$PROJECT_DIR$/file_test.rb" />
+        <option value="$PROJECT_DIR$/about_iteration.rb" />
+        <option value="$PROJECT_DIR$/about_blocks.rb" />
+        <option value="$PROJECT_DIR$/.path_progress" />
+        <option value="$PROJECT_DIR$/te.rb" />
+        <option value="$PROJECT_DIR$/about_sandwich_code.rb" />
       </list>
     </option>
   </component>
@@ -138,13 +144,13 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="diff" />
     <property name="recentsLimit" value="5" />
-    <property name="options.searchVisible" value="true" />
+    <property name="options.lastSelected" value="diff" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
-  <component name="RunManager" selected="Ruby.about_array_assignment">
-    <configuration default="false" name="index" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+  <component name="RunManager" selected="Ruby.te">
+    <configuration default="false" name="te" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="rubystart" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
       <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
@@ -158,27 +164,7 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$PROJECT_DIR$/" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
-      <RunnerSettings RunnerId="RubyRunner" />
-      <ConfigurationWrapper RunnerId="RubyRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="about_array_assignment" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
-      <module name="rubystart" />
-      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
-      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
-        <COVERAGE_PATTERN ENABLED="true">
-          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
-        </COVERAGE_PATTERN>
-      </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$PROJECT_DIR$/about_array_assignment.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$PROJECT_DIR$/te.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <RunnerSettings RunnerId="RubyRunner" />
       <ConfigurationWrapper RunnerId="RubyRunner" />
@@ -260,9 +246,8 @@
         <option name="RakeTask" enabled="false" />
       </method>
     </configuration>
-    <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="Ruby.index" />
-      <item index="1" class="java.lang.String" itemvalue="Ruby.about_array_assignment" />
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Ruby.te" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -304,17 +289,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="25" width="1374" height="721" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32928678" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32996634" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31259483" sideWeight="0.6700337" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25872535" sideWeight="0.32659933" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23216996" sideWeight="0.48653197" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32996634" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32996634" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25872535" sideWeight="0.33501685" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32996634" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.513468" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32996634" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -382,108 +367,110 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/about_hashes.rb">
+    <entry file="file://$PROJECT_DIR$/about_inheritance.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="96" column="30" selection-start="2499" selection-end="2499" vertical-scroll-proportion="0.8730159" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about_asserts.rb">
+    <entry file="file://$PROJECT_DIR$/about_message_passing.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="0" selection-start="986" selection-end="986" vertical-scroll-proportion="0.7978437" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-1.8042328">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_helper.rb">
+    <entry file="file://$PROJECT_DIR$/about_iteration.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="103" column="46" selection-start="2873" selection-end="2873" vertical-scroll-proportion="1.8490566">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first_test.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/autotest/discover.rb">
+    <entry file="file://$PROJECT_DIR$/about_array_assignment.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/autotest/rubykoan.rb">
+    <entry file="file://$PROJECT_DIR$/about_modules.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about_arrays.rb">
+    <entry file="file://$PROJECT_DIR$/about_objects.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="84" column="36" selection-start="2008" selection-end="2008" vertical-scroll-proportion="0.7574124">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.64021164">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Rakefile">
+    <entry file="file://$PROJECT_DIR$/about_open_classes.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.rdoc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="77" column="46" selection-start="3072" selection-end="3072" vertical-scroll-proportion="1.4189944">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about_strings.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="193" column="22" selection-start="5245" selection-end="5245" vertical-scroll-proportion="0.6361186">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GREED_RULES.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-1.9110512">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about_exceptions.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about_control_statements.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-3.2749326">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about_dice_project.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.21293801">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.34920636">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.path_progress">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about_symbols.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="87" column="30" selection-start="2454" selection-end="2454" vertical-scroll-proportion="0.35309973">
+        <state line="0" column="49" selection-start="49" selection-end="49" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about_regular_expressions.rb">
+    <entry file="file://$PROJECT_DIR$/about_blocks.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="19" selection-start="636" selection-end="636" vertical-scroll-proportion="0.80862534">
+        <state line="92" column="19" selection-start="2386" selection-end="2386" vertical-scroll-proportion="2.4338624">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_symbols.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.23809524">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_to_str.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_scope.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.07936508">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/te.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="151" selection-end="212" vertical-scroll-proportion="0.629771">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example_file.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_sandwich_code.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="91" column="49" selection-start="2292" selection-end="2322" vertical-scroll-proportion="0.54198474">
           <folding />
         </state>
       </provider>
